@@ -1,3 +1,4 @@
+Loom video: https://www.loom.com/share/45bfc56241664431b8596d99618b9fdc
 # Global Trading Alliance Website
 
 A professional WordPress website developed for Global Trading Alliance (Pty) Ltd, a South African freight forwarding and logistics company specializing in international shipping, container logistics, customs coordination, and supply chain solutions. The website was designed to establish a strong online presence, generate leads, and showcase the company's logistics services.
